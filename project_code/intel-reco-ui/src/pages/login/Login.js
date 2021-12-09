@@ -40,7 +40,7 @@ function Login(props) {
     <Grid container className={classes.container}>
       <div className={classes.logotypeContainer}>
         <img src={logo} alt="logo" className={classes.logotypeImage} />
-        <Typography className={classes.logotypeText}>InteliReco</Typography>
+        <Typography className={classes.logotypeText}>IntelliReco</Typography>
       </div>
       <div className={classes.formContainer}>
         <div className={classes.form}>
